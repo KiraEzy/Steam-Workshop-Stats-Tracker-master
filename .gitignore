@@ -1,0 +1,5 @@
+# Ignore all .xlsx files starting with 'workshop_data'
+workshop_data*.xlsx
+
+# Ignore the 'config.yaml' file
+config.yaml

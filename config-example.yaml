@@ -1,0 +1,6 @@
+# config_example.yaml
+
+api_key: 'YOUR_STEAM_API_KEY'
+workshop_item_id: 'YOUR_WORKSHOP_ITEM_ID'
+interval: 60  # Interval in seconds
+excel_file_path: 'path/to/your/workshop_data.xlsx'
